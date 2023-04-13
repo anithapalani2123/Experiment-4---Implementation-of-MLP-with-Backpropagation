@@ -166,6 +166,30 @@ print(classification_report(Y_test,predictions))
 ```
 
 ## OUTPUT 
+## df.head():
+![n1](https://user-images.githubusercontent.com/94184990/231817216-d1de8d7a-e646-4871-81c3-386312eb1b59.png)
+
+## X.head():
+![n2](https://user-images.githubusercontent.com/94184990/231817315-cdc8e2e7-8411-4ffd-80e9-9a13bfeab481.png)
+
+## Y.head():
+![n3](https://user-images.githubusercontent.com/94184990/231817819-3c5c8944-db81-4c89-b53b-70838b6a6178.png)
+
+## Unique Values in Y:
+![n4](https://user-images.githubusercontent.com/94184990/231817933-0785f2ae-6cf4-4b3b-9d7f-fb83c80ed08c.png)
+
+## Transforming Categorical to numerical values:
+![n5](https://user-images.githubusercontent.com/94184990/231818033-baefe7fd-9294-4039-b5a6-6b693dcb4675.png)
+
+## Predictions:
+![n6](https://user-images.githubusercontent.com/94184990/231818352-bc710dd5-7f98-4a0c-a89b-c71ac704fa3e.png)
+
+## Confusion Matrix:
+![n7](https://user-images.githubusercontent.com/94184990/231818523-62c3966a-238e-4d5b-84c7-d9ebe698cc99.png)
+
+## Classification_report:
+![9](https://user-images.githubusercontent.com/94184990/231819043-7d0e9c7b-5545-4b9d-aa9b-f82388aa194e.png)
+
 
 ## RESULT:
 Thus, a program to implement Multilayer Perceptron for Multi Classification is successfully created and executed.
